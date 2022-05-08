@@ -2,8 +2,11 @@ p {
     background-color: pink;
 }
 body {
-    background-color: aqua;
+    background-color: whitesmoke;
 }
-table {
-    border: 3px solid black;
+table, th, td{
+    border: 1px solid black;
+}
+img {
+    width: 40%;
 }
