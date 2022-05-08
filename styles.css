@@ -4,3 +4,6 @@ p {
 body {
     background-color: aqua;
 }
+table {
+    border: 3px solid black;
+}
